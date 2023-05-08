@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fba7f103-949f-4350-95d2-7cb1c43d92d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\software\software1\maven\repository" />
+        <option name="mavenHome" value="E:\software\software1\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\software\software1\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ghtePVidQIeBSyEzoZlqH2qNmH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.callback.Main" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.callback.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.stream.StreamTest8" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCreateId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.util.TestCreateId" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMapContains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.TestMapContains" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.TestTime" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestTime" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestCreateId" />
+      <item itemvalue="Application.TestMapContains" />
+      <item itemvalue="Application.StreamTest8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StreamTest8" />
+        <item itemvalue="Application.TestMapContains" />
+        <item itemvalue="Application.TestCreateId" />
+        <item itemvalue="Application.TestTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fba7f103-949f-4350-95d2-7cb1c43d92d5" name="Default Changelist" comment="" />
+      <created>1598578746074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598578746074</updated>
+      <workItem from="1598578748616" duration="24309000" />
+      <workItem from="1598940387760" duration="8760000" />
+      <workItem from="1599025287289" duration="604000" />
+      <workItem from="1599027030696" duration="1887000" />
+      <workItem from="1599398822198" duration="595000" />
+      <workItem from="1599449258985" duration="1853000" />
+      <workItem from="1608540914201" duration="5664000" />
+      <workItem from="1608702389708" duration="5794000" />
+      <workItem from="1608990213539" duration="390000" />
+      <workItem from="1610006770795" duration="3167000" />
+      <workItem from="1614758682244" duration="1403000" />
+      <workItem from="1614823185102" duration="1535000" />
+      <workItem from="1614937788788" duration="647000" />
+      <workItem from="1615098274870" duration="620000" />
+      <workItem from="1617269753141" duration="129000" />
+      <workItem from="1621831125958" duration="1306000" />
+      <workItem from="1627436758036" duration="3132000" />
+      <workItem from="1627463257978" duration="244000" />
+      <workItem from="1627463764006" duration="101000" />
+      <workItem from="1627463896501" duration="193000" />
+      <workItem from="1627464112993" duration="117000" />
+      <workItem from="1627464253159" duration="2504000" />
+      <workItem from="1627865694791" duration="606000" />
+      <workItem from="1627874210620" duration="634000" />
+      <workItem from="1627880207460" duration="1223000" />
+      <workItem from="1627886596417" duration="595000" />
+      <workItem from="1627952102347" duration="645000" />
+      <workItem from="1627953183755" duration="589000" />
+      <workItem from="1627958889168" duration="961000" />
+      <workItem from="1631329907572" duration="1427000" />
+      <workItem from="1635305146721" duration="1509000" />
+      <workItem from="1635389594871" duration="770000" />
+      <workItem from="1635834785564" duration="886000" />
+      <workItem from="1642218717334" duration="923000" />
+      <workItem from="1643676661884" duration="5554000" />
+      <workItem from="1644370859087" duration="848000" />
+      <workItem from="1672368311302" duration="953000" />
+      <workItem from="1672369390508" duration="82000" />
+      <workItem from="1673339699752" duration="5832000" />
+      <workItem from="1673492736875" duration="410000" />
+      <workItem from="1679970588736" duration="1904000" />
+      <workItem from="1680056898018" duration="1783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/by/util/TestCreateId.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/by/TestMapContains.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java8$MethodRefTest_test1.ic" NAME="MethodRefTest.test1 Coverage Results" MODIFIED="1598942563177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.by.java8_2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
